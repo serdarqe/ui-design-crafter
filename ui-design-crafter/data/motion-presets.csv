@@ -1,0 +1,14 @@
+name,domain,easing,duration_ms,hover_ms,reduced_motion,notes
+quiet-app,saas admin productivity dashboard tool,cubic-bezier(0.2 0 0 1),160,100,Honor prefers-reduced-motion: keep opacity/instant state; drop transforms and parallax,Minimal motion; use it for continuity loading and state change only.
+precise-finance,fintech banking finance analytics,cubic-bezier(0.2 0 0 1),140,90,Reduce to opacity-only; never animate live numbers,Subtle updates; no distracting motion near live values.
+friendly-consumer,consumer mobile social ecommerce,ease-out,220,120,Drop screen-transition slides and bounce; keep fades,Short feedback and screen transitions; respect reduced motion.
+calm-cozy,cozy lifestyle wellness habit health,ease-in-out,260,140,Soften to gentle opacity; no auto-playing motion,Gentle transitions and small completion feedback; no pressure.
+kids-positive,kids education learning,cubic-bezier(0.34 1.56 0.64 1),240,140,Keep success feedback but remove large bounce and shake,Positive reinforcement; short and predictable.
+snappy-casual,casual puzzle hyper casual mobile game,cubic-bezier(0.34 1.56 0.64 1),180,90,Cut combo/reward bursts to a quick fade; keep counters stable,Snappy elastic reward feedback readable in one glance.
+arcade-bouncy,fun party arcade game,cubic-bezier(0.34 1.56 0.64 1),240,110,Replace confetti/bounce with a brief highlight,Bouncy celebratory bursts but keep controls and text stable.
+tactical-instant,sci-fi tactical strategy fps hud game,cubic-bezier(0.2 0 0 1),90,70,Disable scanlines/parallax/auto-camera; keep instant state,Fast near-instant feedback; data/scan transitions only where meaningful.
+rpg-material,fantasy rpg adventure game,cubic-bezier(0.2 0 0 1),220,120,Reduce reveal/enchant motion to a fade; keep readability,Material response and rarity highlight used sparingly.
+period-material,historical period archive museum manuscript ottoman game,cubic-bezier(0.2 0 0 1),220,120,Reduce page drawer and stamp motion to a brief fade or instant state,Physical page drawer stamp or instrument feedback without magical glow.
+horror-tension,horror survival tense game,ease-in-out,300,140,Remove sudden pulses/flashes; keep essential UI steady,Slow tension and brief danger pulses; never make essential UI unpredictable.
+premium-smooth,premium luxury fashion editorial,cubic-bezier(0.2 0 0 1),300,160,Lower amplitude to near-instant fades,Smooth low-amplitude deliberate motion.
+racing-kinetic,racing sports arena,cubic-bezier(0.2 0 0 1),140,90,Drop speed streaks/shake behind text; keep timers steady,Fast directional transitions; keep speed/timer/lap data readable.

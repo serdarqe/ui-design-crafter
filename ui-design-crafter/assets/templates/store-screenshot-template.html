@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width={{canvas_width}}, initial-scale=1">
+  <title>{{title}}</title>
+  <style>
+    :root {
+      --canvas-w: {{canvas_width}}px;
+      --canvas-h: {{canvas_height}}px;
+      --bg: {{bg}};
+      --fg: {{fg}};
+      --muted: {{muted}};
+      --surface: {{surface}};
+      --accent: {{accent}};
+      --image-fit: {{image_fit}};
+      --font: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      width: var(--canvas-w);
+      height: var(--canvas-h);
+      margin: 0;
+      overflow: hidden;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: var(--font);
+      letter-spacing: 0;
+    }
+
+    body {
+      display: grid;
+      place-items: center;
+    }
+
+    .canvas {
+      position: relative;
+      width: var(--canvas-w);
+      height: var(--canvas-h);
+      overflow: hidden;
+      background:
+        radial-gradient(circle at 80% 12%, color-mix(in srgb, var(--accent) 14%, transparent), transparent 28%),
+        linear-gradient(160deg, color-mix(in srgb, var(--bg) 94%, white), var(--bg));
+    }
+
+    .shot {
+      position: absolute;
+      overflow: hidden;
+      background: #05070a;
+      border: 1px solid color-mix(in srgb, var(--fg) 14%, transparent);
+      box-shadow: 0 22px 70px color-mix(in srgb, black 38%, transparent);
+    }
+
+    .shot img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: var(--image-fit);
+      background: #05070a;
+    }
+
+    .copy {
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      z-index: 2;
+    }
+
+    .eyebrow {
+      color: var(--muted);
+      font-size: clamp(18px, 2.2vw, 30px);
+      font-weight: 700;
+    }
+
+    .caption {
+      max-width: 100%;
+      color: var(--fg);
+      font-size: clamp(38px, 5.2vw, 82px);
+      line-height: 1.04;
+      font-weight: 800;
+      text-wrap: balance;
+    }
+
+    .note {
+      max-width: 64ch;
+      color: var(--muted);
+      font-size: clamp(18px, 2.1vw, 28px);
+      line-height: 1.35;
+      font-weight: 500;
+    }
+
+    .style-top-caption .copy {
+      top: 7%;
+      left: 8%;
+      right: 8%;
+      min-height: 18%;
+      justify-content: center;
+      text-align: center;
+      align-items: center;
+    }
+
+    .style-top-caption .shot {
+      left: 10%;
+      right: 10%;
+      bottom: 7%;
+      height: 64%;
+      border-radius: 8px;
+    }
+
+    .style-bottom-caption .copy {
+      left: 8%;
+      right: 8%;
+      bottom: 6%;
+      min-height: 20%;
+      justify-content: center;
+      text-align: center;
+      align-items: center;
+    }
+
+    .style-bottom-caption .shot {
+      left: 10%;
+      right: 10%;
+      top: 7%;
+      height: 62%;
+      border-radius: 8px;
+    }
+
+    .style-split-caption .copy {
+      top: 10%;
+      bottom: 10%;
+      left: 7%;
+      width: 36%;
+      justify-content: center;
+    }
+
+    .style-split-caption .shot {
+      top: 9%;
+      right: 7%;
+      bottom: 9%;
+      width: 48%;
+      border-radius: 8px;
+    }
+
+    .style-clean-device-frame .copy {
+      left: 8%;
+      right: 8%;
+      top: 7%;
+      min-height: 16%;
+      justify-content: center;
+      text-align: center;
+      align-items: center;
+    }
+
+    .style-clean-device-frame .shot {
+      left: 18%;
+      right: 18%;
+      bottom: 7%;
+      height: 68%;
+      padding: 2.4%;
+      border-radius: 28px;
+      background: color-mix(in srgb, var(--fg) 10%, #05070a);
+      border: 1px solid color-mix(in srgb, var(--fg) 16%, transparent);
+    }
+
+    .style-clean-device-frame .shot img {
+      border-radius: 8px;
+    }
+
+    .style-full-bleed-gameplay .shot {
+      inset: 0;
+      border: 0;
+      border-radius: 0;
+      box-shadow: none;
+    }
+
+    .style-full-bleed-gameplay .copy {
+      left: 6%;
+      right: 6%;
+      bottom: 5%;
+      padding: 4% 4.5%;
+      border-radius: 8px;
+      background: color-mix(in srgb, var(--bg) 76%, transparent);
+      backdrop-filter: blur(10px);
+    }
+
+    .style-no-caption-raw-compliant {
+      background: #000;
+    }
+
+    .style-no-caption-raw-compliant .copy {
+      display: none;
+    }
+
+    .style-no-caption-raw-compliant .shot {
+      inset: 0;
+      border: 0;
+      border-radius: 0;
+      box-shadow: none;
+    }
+
+    @media (orientation: portrait) {
+      .style-split-caption .copy {
+        top: 6%;
+        left: 8%;
+        right: 8%;
+        width: auto;
+        bottom: auto;
+        min-height: 18%;
+        text-align: center;
+        align-items: center;
+      }
+
+      .style-split-caption .shot {
+        left: 10%;
+        right: 10%;
+        top: 29%;
+        bottom: 6%;
+        width: auto;
+      }
+
+      .style-clean-device-frame .shot {
+        left: 12%;
+        right: 12%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="canvas {{style_class}}" role="img" aria-label="{{aria_label}}">
+    <section class="copy" aria-hidden="{{copy_hidden}}">
+      <div class="eyebrow">{{eyebrow}}</div>
+      <div class="caption">{{caption}}</div>
+      <div class="note">{{note}}</div>
+    </section>
+    <figure class="shot">
+      <img src="{{image_uri}}" alt="{{image_alt}}">
+    </figure>
+  </main>
+</body>
+</html>

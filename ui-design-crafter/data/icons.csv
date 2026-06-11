@@ -1,0 +1,99 @@
+name,meaning,domain,style,source,license,source_url,notes
+play,start or continue game run,game menu action,outline,Lucide icon name,ISC,https://lucide.dev,Use for the single dominant play action; pair with a solid primary button.
+settings,settings preferences options,app game menu toolbar,outline,Lucide icon name,ISC,https://lucide.dev,Use as icon-only control with accessible label and tooltip.
+shopping-cart,shop store purchase cart,game shop ecommerce action-bar,outline,Lucide icon name,ISC,https://lucide.dev,Use for shop entry or cart; avoid if the screen is an inventory-only flow.
+package,item inventory reward loot,game inventory ecommerce,outline,Lucide icon name,ISC,https://lucide.dev,Use for inventory bundle rewards or generic item collections.
+sword,attack weapon strike,game action rpg hud,outline,Lucide icon name,ISC,https://lucide.dev,Use for melee attack/weapon category; do not use for destructive app actions.
+shield,defense guard protection security,game action security,outline,Lucide icon name,ISC,https://lucide.dev,Use for guard/armor/protection states.
+zap,dash speed energy power,game action performance,outline,Lucide icon name,ISC,https://lucide.dev,Use for speed/dash/energy, but avoid overusing for every exciting action.
+flask-conical,potion crafting experiment,game inventory utility,outline,Lucide icon name,ISC,https://lucide.dev,Use for potion/consumable/science settings.
+heart,health life favorite,game hud consumer social,outline,Lucide icon name,ISC,https://lucide.dev,Use for health or favorite; add label/number for critical HUD.
+coins,currency gold rewards,game shop finance,outline,Lucide icon name,ISC,https://lucide.dev,Use for game currency; do not rely on color alone.
+gem,premium currency rarity reward,game shop inventory,outline,Lucide icon name,ISC,https://lucide.dev,Use for premium currency/rarity with text label.
+lock,locked restricted unavailable,app game state,outline,Lucide icon name,ISC,https://lucide.dev,Use with visible reason, not as silent disabled state.
+check,success owned complete,app game state,outline,Lucide icon name,ISC,https://lucide.dev,Use for success/owned/completed; pair with text for clarity.
+alert-triangle,warning risk attention,app game state,outline,Lucide icon name,ISC,https://lucide.dev,Use for warning states; keep color semantics stable.
+x,close dismiss remove,app game modal,outline,Lucide icon name,ISC,https://lucide.dev,Use for close/dismiss. Destructive remove needs label/confirmation.
+search,find filter lookup,app toolbar inventory shop,outline,Lucide icon name,ISC,https://lucide.dev,Use for search entry; include visible input label/placeholder.
+filter,filter refine category,app dashboard shop inventory,outline,Lucide icon name,ISC,https://lucide.dev,Use for filtering lists; pair with active filter count.
+sliders-horizontal,tune settings controls,app tool game settings,outline,Lucide icon name,ISC,https://lucide.dev,Use for adjustable controls/settings.
+calendar,date schedule booking,app productivity travel,outline,Lucide icon name,ISC,https://lucide.dev,Use for date/time filters; keep date format explicit.
+bar-chart-3,analytics metrics report,app dashboard finance,outline,Lucide icon name,ISC,https://lucide.dev,Use for analytics sections; pair charts with labels and units.
+credit-card,payment billing purchase,app ecommerce finance,outline,Lucide icon name,ISC,https://lucide.dev,Use for payment/billing only, not generic money.
+user,profile account character,app game character,outline,Lucide icon name,ISC,https://lucide.dev,Use for profile or character sheet.
+map,map navigation level area,game travel,outline,Lucide icon name,ISC,https://lucide.dev,Use for map/level select; add current position state.
+target,aim objective goal,game hud productivity,outline,Lucide icon name,ISC,https://lucide.dev,Use for objective/targeting; avoid near destructive app actions.
+pause,pause resume control,game media,outline,Lucide icon name,ISC,https://lucide.dev,Use for pause control; make resume the primary pause-menu action.
+clock-3,idle timer passive income,idle incremental game economy,outline,Lucide icon name,ISC,https://lucide.dev,Use for passive timer or offline gain.
+hourglass,waiting upgrade progress,idle incremental game,outline,Lucide icon name,ISC,https://lucide.dev,Use for time-gated progress with visible duration.
+rotate-cw,auto loop automation prestige,idle incremental automation,outline,Lucide icon name,ISC,https://lucide.dev,Use for automation loops or reset cycles.
+trending-up,growth income upgrade,idle finance progression,outline,Lucide icon name,ISC,https://lucide.dev,Use for gain rate and compounding progress.
+combine,merge combine items,merge crafting game,outline,Lucide icon name,ISC,https://lucide.dev,Use for merging two or more items into one.
+git-merge,merge path combine branches,merge game crafting,outline,Lucide icon name,ISC,https://lucide.dev,Use for combine path or recipe branching.
+layers-3,stack collection tiers,merge inventory collection,outline,Lucide icon name,ISC,https://lucide.dev,Use for item tiers stacks and collections.
+sparkles,upgrade discovery reward,merge game reward,outline,Lucide icon name,ISC,https://lucide.dev,Use for new merged item or reveal feedback.
+castle,tower base defense,tower defense strategy,outline,Lucide icon name,ISC,https://lucide.dev,Use for base tower castle or protected objective.
+route,lane path wave route,tower defense map,outline,Lucide icon name,ISC,https://lucide.dev,Use for enemy path and route planning.
+crosshair,target tower range,tower defense fps hud,outline,Lucide icon name,ISC,https://lucide.dev,Use for targeting range or aim state.
+radar,wave detection sensor,tower defense tactical,outline,Lucide icon name,ISC,https://lucide.dev,Use for incoming wave or detection radius.
+hand,card hand selection,card battler deck game,outline,Lucide icon name,ISC,https://lucide.dev,Use for hand row or card selection state.
+scroll-text,card rules effect text,card battler rpg,outline,Lucide icon name,ISC,https://lucide.dev,Use for card detail or effect description.
+swords,combat attack clash,card battler rpg action,outline,Lucide icon name,ISC,https://lucide.dev,Use for combat clash or attack phase.
+badge,card rarity trait,card battler inventory,outline,Lucide icon name,ISC,https://lucide.dev,Use for trait rarity or card tag.
+skull,death danger run end,roguelike dungeon game,outline,Lucide icon name,ISC,https://lucide.dev,Use for death danger curse or run fail state.
+dice-6,random roll chance,roguelike casino game,outline,Lucide icon name,ISC,https://lucide.dev,Use for random event roll or proc chance.
+door-open,room exit next floor,roguelike dungeon,outline,Lucide icon name,ISC,https://lucide.dev,Use for next room exit or branching route.
+flame,burn hazard power,roguelike survival action,outline,Lucide icon name,ISC,https://lucide.dev,Use for fire hazard or temporary power.
+move-right,run move forward,platformer runner game,outline,Lucide icon name,ISC,https://lucide.dev,Use for forward movement or level path.
+arrow-up,jump upward action,platformer game control,outline,Lucide icon name,ISC,https://lucide.dev,Use for jump action or vertical platform cue.
+footprints,movement path steps,platformer adventure game,outline,Lucide icon name,ISC,https://lucide.dev,Use for movement path or traversal hint.
+flag,checkpoint finish goal,platformer racing game,outline,Lucide icon name,ISC,https://lucide.dev,Use for checkpoint finish line or level goal.
+scan,target scan lock,fps action tactical hud,outline,Lucide icon name,ISC,https://lucide.dev,Use for scan lock-on or tactical acquisition.
+shield-alert,armor warning guard,fps action hud,outline,Lucide icon name,ISC,https://lucide.dev,Use for armor low shield warning or protection alert.
+badge-alert,combat alert objective,fps action game,outline,Lucide icon name,ISC,https://lucide.dev,Use for urgent mission or combat alert.
+timer,cooldown match time,fps sports racing,outline,Lucide icon name,ISC,https://lucide.dev,Use for match timer cooldown or timed objective.
+axe,chop tool resource,survival crafting game,outline,Lucide icon name,ISC,https://lucide.dev,Use for woodcutting tool or harvesting action.
+pickaxe,mining gather resource,survival crafting city builder,outline,Lucide icon name,ISC,https://lucide.dev,Use for mining gathering or excavation.
+hammer,craft build repair,survival crafting builder,outline,Lucide icon name,ISC,https://lucide.dev,Use for crafting building or repair action.
+backpack,inventory carry gear,survival crafting adventure,outline,Lucide icon name,ISC,https://lucide.dev,Use for backpack inventory and carry capacity.
+music,song track rhythm,music rhythm game,outline,Lucide icon name,ISC,https://lucide.dev,Use for song selection or music category.
+drum,beat rhythm timing,music rhythm game,outline,Lucide icon name,ISC,https://lucide.dev,Use for beat lane or rhythm timing.
+radio,track station playlist,music media app,outline,Lucide icon name,ISC,https://lucide.dev,Use for radio station playlist or broadcast.
+volume-2,audio volume sound,music game settings,outline,Lucide icon name,ISC,https://lucide.dev,Use for sound volume and mix controls.
+dice-5,casino chance roll,casino slot game,outline,Lucide icon name,ISC,https://lucide.dev,Use for random chance or table game cue.
+clover,luck bonus chance,casino reward game,outline,Lucide icon name,ISC,https://lucide.dev,Use for luck bonus or chance boost.
+ticket,reward ticket entry,casino arcade event,outline,Lucide icon name,ISC,https://lucide.dev,Use for spin ticket entry or event pass.
+badge-dollar-sign,jackpot payout value,casino finance shop,outline,Lucide icon name,ISC,https://lucide.dev,Use for payout jackpot or money reward.
+trophy,win trophy achievement,sports game reward,outline,Lucide icon name,ISC,https://lucide.dev,Use for tournament win trophy or achievement.
+medal,rank medal placement,sports education reward,outline,Lucide icon name,ISC,https://lucide.dev,Use for rank placement badge or achievement.
+dumbbell,training fitness strength,sports health app,outline,Lucide icon name,ISC,https://lucide.dev,Use for training exercise or strength stat.
+clipboard-list,lineup tasks checklist,sports productivity,outline,Lucide icon name,ISC,https://lucide.dev,Use for lineup objectives checklist or match tasks.
+building-2,city building district,city builder app,outline,Lucide icon name,ISC,https://lucide.dev,Use for building zone or district.
+crane,construction build queue,city builder simulation,outline,Lucide icon name,ISC,https://lucide.dev,Use for construction queue or build mode.
+factory,industry production,city builder strategy,outline,Lucide icon name,ISC,https://lucide.dev,Use for industry production or resource output.
+landmark,civic bank government,city builder finance,outline,Lucide icon name,ISC,https://lucide.dev,Use for civic building government or bank.
+wheat,crop harvest farming,farming cozy sim,outline,Lucide icon name,ISC,https://lucide.dev,Use for crop harvest or farm resource.
+shovel,plant dig farm work,farming survival crafting,outline,Lucide icon name,ISC,https://lucide.dev,Use for digging planting or soil work.
+sprout,growth plant seed,farming wellness education,outline,Lucide icon name,ISC,https://lucide.dev,Use for growth seed or habit progress.
+house,home farm base,cozy farming city builder,outline,Lucide icon name,ISC,https://lucide.dev,Use for home base farm house or settlement.
+store,marketplace seller shop,marketplace ecommerce,outline,Lucide icon name,ISC,https://lucide.dev,Use for seller storefront or marketplace tab.
+tag,price discount label,marketplace ecommerce shop,outline,Lucide icon name,ISC,https://lucide.dev,Use for price tag sale category or label.
+receipt,receipt order proof,marketplace finance,outline,Lucide icon name,ISC,https://lucide.dev,Use for order receipt transaction proof.
+badge-percent,discount promotion offer,marketplace ecommerce casino,outline,Lucide icon name,ISC,https://lucide.dev,Use for discount or promotion badge with accessible label.
+stethoscope,clinical exam care,health medical app,outline,Lucide icon name,ISC,https://lucide.dev,Use for clinical care exam or provider section.
+activity,vitals activity metric,health wellness dashboard,outline,Lucide icon name,ISC,https://lucide.dev,Use for vitals chart activity or live metric.
+pill,medicine prescription,health medical app,outline,Lucide icon name,ISC,https://lucide.dev,Use for medication prescription or dosage.
+heart-pulse,heart rate health status,health fitness wellness,outline,Lucide icon name,ISC,https://lucide.dev,Use for heart rate health status or wellness metric.
+wallet,budget wallet balance,personal finance app,outline,Lucide icon name,ISC,https://lucide.dev,Use for wallet balance budget or spending pool.
+piggy-bank,savings goal money,personal finance education,outline,Lucide icon name,ISC,https://lucide.dev,Use for savings goals or reserve funds.
+receipt-text,transaction statement,personal finance commerce,outline,Lucide icon name,ISC,https://lucide.dev,Use for transaction detail bill or statement.
+chart-no-axes-combined,budget trend forecast,finance analytics,outline,Lucide icon name,ISC,https://lucide.dev,Use for trend summary or forecast chart.
+graduation-cap,course learning achievement,education app,outline,Lucide icon name,ISC,https://lucide.dev,Use for course completion or learning path.
+book-open,lesson reading resource,education study,outline,Lucide icon name,ISC,https://lucide.dev,Use for lesson reading or knowledge base.
+pencil,write edit answer,education productivity,outline,Lucide icon name,ISC,https://lucide.dev,Use for writing answer edit or practice task.
+brain,learning skill knowledge,education wellness,outline,Lucide icon name,ISC,https://lucide.dev,Use for learning skill memory or knowledge state.
+archive,archive records storage,historical period museum app,outline,Lucide icon name,ISC,https://lucide.dev,Use for archive drawers records or saved dossiers.
+scroll-text,scroll manuscript document,historical period fantasy,outline,Lucide icon name,ISC,https://lucide.dev,Use for manuscript quest notice or period document.
+landmark,museum court institution,historical period civic,outline,Lucide icon name,ISC,https://lucide.dev,Use for museum court archive or institution context.
+map,map route mission,historical period strategy,outline,Lucide icon name,ISC,https://lucide.dev,Use for period map route mission or territory view.
+stamp,stamp approval seal,historical period workflow,outline,Lucide icon name,ISC,https://lucide.dev,Use for approval seal selected state or archival mark.

@@ -1,0 +1,195 @@
+alias,expansion,notes
+korku,horror survival dark tense,Turkish horror theme
+gerilim,horror thriller tense dark,Turkish thriller tone
+karanlik,dark moody shadow,Turkish dark mood
+morg,morgue hospital horror survival,Concrete horror background anchor
+mezarlik,cemetery graveyard horror survival,Concrete horror background anchor
+hastane,hospital medical corridor horror health,Hospital context
+eglence,fun party arcade playful,Turkish fun theme
+eglenceli,fun party arcade playful,Turkish playful adjective
+parti,party celebration arcade social,Party theme
+komik,fun playful casual,Comedic playful tone
+oyun,game mobile browser hud menu,Turkish game
+mobil oyun,mobile game touch hud,Turkish mobile game phrase
+hyper casual,hyper casual mobile runner toy arcade,Common genre phrase
+hiper casual,hyper casual mobile runner toy arcade,Turkish spelling for hyper casual
+gorev,mission quest objective target,Turkish mission
+gorev secim,mission select quest objective,Turkish mission select phrase
+ana menu,main menu start continue settings,Turkish main menu
+menu,menu navigation start settings,Menu term
+magaza,shop store purchase inventory price,Turkish shop
+dukkan,shop store purchase inventory price,Turkish shop synonym
+alisveris,shop ecommerce purchase checkout,Turkish shopping
+envanter,inventory item gear equipment,Turkish inventory
+ekipman,loadout gear equipment inventory,Turkish equipment
+seviye,level progression stage map,Turkish level
+bolum,level stage chapter mission,Turkish chapter or level
+yaris,racing sports garage track speed timer,Turkish racing
+garaj,garage racing vehicle loadout,Turkish garage
+araba,car vehicle racing garage,Turkish car
+hiz,speed racing runner performance,Turkish speed
+spor,sports racing scoreboard competition,Turkish sports
+strateji,strategy tactical war room map command,Turkish strategy
+taktik,tactical strategy command map,Turkish tactical
+savas,war battle strategy action combat,Turkish war or battle
+harita,map strategy tactical level navigation,Turkish map
+rahat,cozy lifestyle calm soft,Turkish calm cozy
+sakin,cozy calm lifestyle wellness,Turkish calm
+sicak,warm cozy lifestyle,Turkish warm tone
+bahce,garden cozy farming lifestyle,Turkish garden
+kafe,cafe cozy lifestyle social,Turkish cafe
+cocuk,kids education playful safe,Turkish kids
+egitim,education learning kids,Turkish education
+okul,school classroom education kids,Turkish school
+fantastik,fantasy rpg medieval magic,Turkish fantasy
+buyu,magic fantasy rpg spell,Turkish magic
+orta cag,medieval fantasy rpg,Turkish medieval phrase
+bilim kurgu,sci-fi tactical space future,Turkish sci-fi phrase
+uzay,space sci-fi tactical,Turkish space
+robot,robot sci-fi tech,Turkish robot
+premium,premium luxury refined minimal,Premium tone
+luks,luxury premium refined minimal,Turkish luxury
+finans,finance fintech analytics banking,Turkish finance
+para,currency finance shop economy,Turkish money
+analiz,analytics dashboard charts data,Turkish analytics
+saglik,health healthcare wellness medical,Turkish health
+wellness,wellness health calm lifestyle,Wellness term
+panel,panel card surface sheet,Turkish panel
+buton,button action cta control,Turkish button
+dugme,button action cta control,Turkish button synonym
+hud,hud meter status game,HUD term
+alt aksiyon bari,bottom action bar hotbar mobile,Turkish bottom action bar phrase
+arka plan,background scene art environment,Turkish background phrase
+background,background scene art environment,English background
+cerceve,border frame outline,Turkish frame
+sari cerceve,gold yellow frame border warning,Turkish yellow frame phrase
+renk,color palette semantic token,Turkish color
+tipografi,typography font pairing type scale,Turkish typography
+ikon,icon symbol lucide,Turkish icon
+idle,idle incremental automation economy,Idle game genre
+bosta,idle incremental passive automation,Turkish idle spelling
+bos oyun,idle incremental passive automation,Turkish idle phrase
+incremental,incremental idle economy upgrade,Incremental genre
+clicker,clicker idle incremental upgrade,Clicker genre
+merge,merge crafting combine collection,Merge genre
+birlestirme,merge combine crafting collection,Turkish merge
+eslestirme,merge match combine puzzle,Turkish match merge
+tower defense,tower defense lane strategy wave,Tower defense genre
+kule savunma,tower defense lane strategy wave,Turkish tower defense
+kule,tower defense castle upgrade,Turkish tower
+card battler,card battler deck tactics turn,Card battler genre
+deck builder,card battler deck tactics build,Deck builder genre
+kart savasi,card battler deck tactics turn,Turkish card battle
+kart oyunu,card battler deck tactics game,Turkish card game
+roguelike,roguelike dungeon run loot,Common roguelike genre
+zindan,roguelike dungeon loot dark,Turkish dungeon
+run,run roguelike level attempt,Run based game
+platformer,platformer side scroller jump adventure,Platformer genre
+platform,platformer jump side scroller,Turkish platform cue
+ziplama,platformer jump movement,Turkish jumping
+fps,fps shooter action combat hud,FPS genre
+shooter,shooter fps action combat,Action shooter genre
+nisanci,shooter fps aim combat,Turkish shooter
+atis,shooting fps action combat,Turkish shooting
+aksiyon,action combat fps platformer,Turkish action
+survival crafting,survival crafting wilderness resource,Survival crafting genre
+hayatta kalma,survival crafting wilderness resource,Turkish survival
+craft,crafting survival resource build,Crafting cue
+zanaat,crafting build resource,Turkish craft
+ritim,rhythm music beat stage,Turkish rhythm
+ritim oyunu,rhythm music beat game,Turkish rhythm game
+muzik,music rhythm beat media,Turkish music without diacritics
+casino,casino slot luck reward,Casino theme
+slot,slot casino luck reel reward,Slot genre
+kumar,casino slot luck reward,Turkish gambling theme
+jackpot,jackpot casino slot reward,Jackpot cue
+city builder,city builder civic planning simulation,City builder genre
+sehir kurma,city builder civic planning simulation,Turkish city builder
+sehir,city builder civic district,Turkish city
+belediye,civic city builder government,Turkish civic cue
+farming sim,farming cozy sim harvest garden,Farming sim genre
+ciftlik,farming cozy sim harvest garden,Turkish farming
+hasat,harvest farming crop reward,Turkish harvest
+tarla,farming field crop garden,Turkish field
+marketplace,marketplace ecommerce seller buyer commerce,Marketplace domain
+pazar yeri,marketplace ecommerce seller buyer commerce,Turkish marketplace
+satici,seller marketplace store commerce,Turkish seller
+alici,buyer marketplace commerce checkout,Turkish buyer
+butce,budget personal finance money planning,Turkish budget
+birikim,savings personal finance goal,Turkish savings
+gelir,income finance budget,Turkish income
+gider,expense finance budget,Turkish expense
+klinik,clinical medical health operations,Turkish clinic
+acil,emergency medical urgent clinical,Turkish emergency
+hasta,patient medical clinical dashboard,Turkish patient
+ders,lesson education study learning,Turkish lesson
+sinav,quiz exam education study,Turkish exam
+ogrenci,student education learning,Turkish student
+animasyon,motion animation transition easing,Turkish animation
+hareket,motion animation transition,Turkish motion
+gecis,motion transition animation,Turkish transition
+reklam,advertising ad monetization rewarded banner interstitial,Turkish advertising
+abonelik,subscription monetization paywall pricing,Turkish subscription
+odeme,payment monetization checkout pricing,Turkish payment
+paywall,monetization subscription pricing trial,Paywall synonyms
+dil,localization language internationalization,Turkish language
+ceviri,localization translation internationalization,Turkish translation
+yerellestirme,localization internationalization rtl,Turkish localization
+rtl,rtl right-to-left bidi localization internationalization,RTL synonyms
+yukleme,loading skeleton progress perceived-performance,Turkish loading
+multiplayer,multiplayer social lobby party matchmaking,Multiplayer synonyms
+lobi,lobby multiplayer party matchmaking,Turkish lobby
+arkadas,friends social presence multiplayer,Turkish friends
+liderlik,leaderboard ranking competition social,Turkish leaderboard
+sezon,season live-ops battle-pass event,Turkish season
+gunluk,daily reward streak login live-ops,Turkish daily
+etkinlik,event live-ops limited-time season,Turkish event
+battle pass,battle-pass season reward tiers live-ops,Battle pass synonyms
+microcopy,ux-writing microcopy copy label tone error-message,Microcopy synonyms
+metin,ux-writing microcopy copy text label,Turkish text/copy
+yazim,ux-writing microcopy copy tone,Turkish writing
+erisilebilirlik,accessibility a11y aria screen-reader keyboard focus,Turkish accessibility
+accessibility,accessibility a11y aria screen-reader keyboard,Accessibility synonyms
+a11y,accessibility aria screen-reader keyboard focus,a11y synonyms
+token,design-tokens export css-variables tailwind dtcg handoff,Design tokens/export
+performance,performance fps jank reflow overdraw core-web-vitals optimization,Performance synonyms
+performans,performance fps jank overdraw optimization,Turkish performance
+fps,performance frame-rate jank stutter game optimization,Frame-rate synonyms
+optimizasyon,performance optimization fps load-time,Turkish optimization
+tarih,historical period archive museum manuscript,Turkish history
+tarihi,historical period archive museum manuscript,Turkish historical adjective
+tarihsel,historical period archive museum manuscript,Turkish historical theme
+donem,historical period era archive museum,Turkish period without diacritic
+dönem,historical period era archive museum,Turkish period
+osmanli,ottoman historical period archive manuscript court map,Turkish Ottoman without diacritic
+osmanlı,ottoman historical period archive manuscript court map,Turkish Ottoman
+ottoman,ottoman historical period archive manuscript court map,Ottoman period
+arsiv,archive records historical period museum,Turkish archive without diacritic
+arşiv,archive records historical period museum,Turkish archive
+el yazmasi,manuscript historical period archive,Turkish manuscript without diacritic
+el yazması,manuscript historical period archive,Turkish manuscript
+period,historical period era archive museum,Period theme
+historical,historical period archive museum manuscript,Historical theme
+victorian,victorian historical period ledger medical archive,Victorian period
+roman,roman historical period stone forum empire,Ancient Roman period
+wwii,wwii historical period operations room map radio,World War II period
+aso,store screenshot app-store google-play listing preview-assets caption,ASO and store listing assets
+app store,app-store apple screenshot ios iphone ipad store listing,Apple App Store screenshots
+google play,google-play android screenshot store listing,Google Play screenshots
+play store,google-play android screenshot store listing,Google Play common name
+magaza gorseli,store screenshot listing preview-assets aso,Turkish store visual without diacritics
+mağaza görseli,store screenshot listing preview-assets aso,Turkish store visual
+ekran goruntusu,screenshot store preview-assets capture export,Turkish screenshot without diacritics
+ekran görüntüsü,screenshot store preview-assets capture export,Turkish screenshot
+tanitim gorseli,preview-assets store screenshot feature-graphic caption,Turkish promotional visual without diacritics
+tanıtım görseli,preview-assets store screenshot feature-graphic caption,Turkish promotional visual
+vitrin,store listing preview-assets screenshot,Turkish storefront/listing
+feature graphic,google-play feature-graphic store listing cover,Google Play feature graphic
+iphone,app-store iphone ios screenshot,Apple iPhone screenshot
+ipad,app-store ipad tablet screenshot,Apple iPad screenshot
+tablet,tablet large-screen screenshot,Tablet screenshots
+landscape,landscape horizontal store screenshot,Landscape orientation
+portrait,portrait vertical store screenshot,Portrait orientation
+caption,caption tagline copy localization store screenshot,Caption/tagline
+baslik,caption tagline copy localization store screenshot,Turkish caption/header without diacritics
+başlık,caption tagline copy localization store screenshot,Turkish caption/header

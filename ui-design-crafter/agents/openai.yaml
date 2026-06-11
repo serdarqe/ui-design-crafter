@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design Crafter"
+  short_description: "App, game, and store screenshot UI design guidance"
+  default_prompt: "Use $ui-design-crafter to design polished app/game UI screens or App Store / Google Play screenshot assets, with real UI evidence, ASO-safe captions, and visual QA."

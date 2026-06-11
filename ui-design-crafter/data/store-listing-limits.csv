@@ -1,0 +1,9 @@
+platform,field,max_chars,notes,source_url,last_checked
+app-store,title,30,App name on the product page and in search results; indexed and heavily weighted.,https://developer.apple.com/help/app-store-connect/reference/app-information/,2026-06-10
+app-store,subtitle,30,Subtitle shown under the app name; indexed for search.,https://developer.apple.com/help/app-store-connect/reference/app-information/,2026-06-10
+app-store,keywords,100,Comma-separated keyword field counted including commas; not shown to users.,https://developer.apple.com/help/app-store-connect/reference/app-information/,2026-06-10
+app-store,promotional-text,170,Promotional text above the description; can be updated without a new app version.,https://developer.apple.com/help/app-store-connect/reference/app-information/,2026-06-10
+app-store,description,4000,Full description; lightly weighted for iOS search.,https://developer.apple.com/help/app-store-connect/reference/app-information/,2026-06-10
+google-play,title,30,App title; strongly weighted for Play search.,https://support.google.com/googleplay/android-developer/answer/9859152,2026-06-10
+google-play,short-description,80,Short description shown near the top of the listing; weighted for search.,https://support.google.com/googleplay/android-developer/answer/9859152,2026-06-10
+google-play,full-description,4000,Full description; weighted for Play search.,https://support.google.com/googleplay/android-developer/answer/9859152,2026-06-10

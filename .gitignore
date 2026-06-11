@@ -1,0 +1,40 @@
+# Generated/runtime folders
+reports/
+store-assets/
+output/
+dist/
+build/
+coverage/
+
+# Local reference/image libraries and user-provided research artifacts
+ASO_Optimizasyon/
+ui-reference-library/
+pdf-extract/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.mov
+
+# Dependencies and caches
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local/editor/system files
+.DS_Store
+Thumbs.db
+.env
+.env.*
+.vscode/
+.idea/
+
+# Generated package artifact
+ui-design-crafter.zip
+public-release/

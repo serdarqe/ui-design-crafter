@@ -1,0 +1,41 @@
+name,domain,heading_font,body_font,mono_font,scale,notes
+neutral-workhorse,saas admin productivity dashboard tool,Inter,Inter,JetBrains Mono,1.20 minor-third,One family across UI keeps dense tools calm; tabular numbers for metrics.
+geometric-modern,saas startup product landing,Space Grotesk,Inter,JetBrains Mono,1.25 major-third,Distinct geometric headings over neutral body; good for modern product UI.
+humanist-clear,healthcare productivity forms accessibility,Source Sans 3,Source Sans 3,IBM Plex Mono,1.20 minor-third,Open humanist letterforms read well at small sizes and for long forms.
+enterprise-plex,fintech enterprise data analytics,IBM Plex Sans,IBM Plex Sans,IBM Plex Mono,1.20 minor-third,Trustworthy enterprise tone; Plex Mono aligns financial tables and code.
+editorial-serif,news reading editorial blog content,Fraunces,Newsreader,IBM Plex Mono,1.33 perfect-fourth,Serif display plus readable serif body for long-form reading comfort.
+modern-serif-sans,premium editorial magazine portfolio,DM Serif Display,DM Sans,JetBrains Mono,1.33 perfect-fourth,High-contrast serif headlines over clean sans body for an elegant feel.
+friendly-rounded,kids education consumer playful,Baloo 2,Nunito Sans,JetBrains Mono,1.25 major-third,Rounded warm headings with a soft readable body for friendly products.
+consumer-clean,social consumer mobile ecommerce,Plus Jakarta Sans,Plus Jakarta Sans,IBM Plex Mono,1.25 major-third,Contemporary consumer sans; one family scales across mobile screens.
+display-impact,ecommerce fashion landing hero,Archivo,Inter,JetBrains Mono,1.50 augmented-fourth,Wide bold display for hero impact over a neutral body workhorse.
+warm-grotesque,cozy lifestyle wellness personal,Bricolage Grotesque,Work Sans,IBM Plex Mono,1.25 major-third,Characterful warm headings with a calm body for lifestyle products.
+finance-precise,fintech banking analytics dashboard,Sora,Inter,IBM Plex Mono,1.20 minor-third,Confident headings with a neutral body and mono for precise figures.
+tech-mono-accent,developer tools code terminal devtool,Geist,Geist,Geist Mono,1.20 minor-third,Modern tech family with a matched mono for code-forward interfaces.
+fantasy-display,fantasy rpg medieval adventure game,Cinzel,Spectral,JetBrains Mono,1.33 perfect-fourth,Engraved serif display for titles with a readable serif for lore and stats.
+historical-archive,historical period ottoman archive museum manuscript app game,Libre Baskerville,Source Sans 3,IBM Plex Mono,1.25 major-third,Period-flavored headings with readable body text for dossiers maps ledgers and mission cards.
+scifi-techno,sci-fi tactical hud space strategy game,Orbitron,Rajdhani,Share Tech Mono,1.25 major-third,Techno display for titles; condensed body and mono for HUD readouts.
+arcade-bold,casual puzzle arcade mobile game,Baloo 2,Nunito,JetBrains Mono,1.33 perfect-fourth,Chunky friendly headings and bold counters for casual game UI.
+horror-stark,horror survival tense game,Oswald,Inter,JetBrains Mono,1.33 perfect-fourth,Condensed stark headings; keep body in a readable sans for inventory.
+travel-airy,travel hospitality booking maps,Outfit,Inter,JetBrains Mono,1.25 major-third,Light airy headings over a neutral body for spacious travel UI.
+fitness-energetic,fitness sport tracker health,Sora,Manrope,JetBrains Mono,1.25 major-third,Energetic headings with a clean geometric body and tabular stats.
+premium-minimal,premium luxury fashion minimal,Cormorant Garamond,Manrope,JetBrains Mono,1.50 augmented-fourth,Refined serif display used sparingly over a quiet modern sans.
+music-expressive,music streaming media entertainment,Clash Display,Inter,JetBrains Mono,1.33 perfect-fourth,Expressive display for browse headers; neutral body so cover art leads.
+system-zero-dep,any offline performance no-webfont,system-ui,system-ui,ui-monospace,1.20 minor-third,Native system stack; zero webfont cost and instant render across platforms.
+idle-readable,idle incremental automation economy mobile game,Rubik,Figtree,JetBrains Mono,1.25 major-third,Rounded readable numbers and upgrade labels for idle loops.
+merge-friendly,merge crafting workshop collection mobile game,Lilita One,Nunito,JetBrains Mono,1.33 perfect-fourth,Chunky headings with soft body text for tactile merge boards.
+tower-defense-command,tower defense strategy lane game,Barlow Condensed,Inter,JetBrains Mono,1.25 major-third,Condensed command headings with clear body labels for lane and wave data.
+card-battler-serif,card battler deck tactics turn game,Marcellus,Source Sans 3,JetBrains Mono,1.33 perfect-fourth,Card titles feel collectible while rules text stays readable.
+roguelike-runic,roguelike dungeon run loot game,Bitter,Inter,JetBrains Mono,1.25 major-third,Dark adventure tone with readable run stats and item descriptions.
+platformer-playful,platformer adventure side scroller game,Luckiest Guy,Nunito,JetBrains Mono,1.33 perfect-fourth,Playful display with friendly body and stable counters.
+fps-combat,fps action shooter combat hud game,Oxanium,Roboto Condensed,Share Tech Mono,1.25 major-third,Compact action typography with mono readouts for ammo and timers.
+survival-crafting-practical,survival crafting wilderness inventory game,Cabin,Source Sans 3,JetBrains Mono,1.25 major-third,Practical outdoor tone with readable crafting and inventory text.
+rhythm-stage,rhythm music beat stage game,Audiowide,Inter,JetBrains Mono,1.33 perfect-fourth,Stage-like display for song and combo headers with neutral body text.
+casino-slot-display,casino slot luck reward game,Playfair Display,Inter,JetBrains Mono,1.33 perfect-fourth,Reward display type used sparingly over readable balance and payout text.
+sports-scoreboard,sports arena team scoreboard competition,Bebas Neue,Inter,JetBrains Mono,1.33 perfect-fourth,Scoreboard energy with neutral body and fixed-width stat readouts.
+city-builder-civic,city builder civic planning simulation,Urbanist,Inter,IBM Plex Mono,1.25 major-third,Civic planning headings with readable resource and zoning labels.
+farming-cozy-readable,farming cozy sim garden harvest game,Fraunces,Nunito,JetBrains Mono,1.25 major-third,Soft farm character with readable timers and collection text.
+marketplace-clear,marketplace ecommerce seller buyer commerce,Manrope,Inter,IBM Plex Mono,1.20 minor-third,Trustworthy commerce pairing for product grids and checkout.
+wellness-soft,wellness meditation habit calm health app,Quicksand,Source Sans 3,IBM Plex Mono,1.25 major-third,Soft headings with accessible body text for calm habit flows.
+education-study,education study classroom learning app,Nunito,Atkinson Hyperlegible,IBM Plex Mono,1.25 major-third,Friendly headings with highly readable learning content.
+personal-finance-precise,personal finance budgeting money planning,IBM Plex Sans,Inter,IBM Plex Mono,1.20 minor-third,Precise calm typography for budgets transactions and category charts.
+medical-ops-clear,medical operations emergency clinical dashboard,Source Sans 3,Inter,IBM Plex Mono,1.20 minor-third,Clear clinical typography with mono support for IDs timers and values.

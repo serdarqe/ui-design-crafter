@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "created_at": "YYYY-MM-DDTHH:MM:SSZ",
+  "generator": "ui-design-crafter/scripts/export_store_screenshots.py",
+  "source_manifest": null,
+  "render_mode": "html-only",
+  "target": {
+    "platform": "google-play",
+    "preset": "google-play-phone-app-portrait",
+    "width": 1080,
+    "height": 1920,
+    "locale": "en-US",
+    "theme": "default",
+    "style": "top-caption"
+  },
+  "outputs": [
+    {
+      "id": "01-home",
+      "screen_name": "home",
+      "source_path": "store-assets/raw/web/en-US/home-phone-portrait.png",
+      "html_path": "store-assets/google-play/google-play-phone-app-portrait/en-US/01-home.html",
+      "png_path": null,
+      "caption": "Track every habit",
+      "style": "top-caption",
+      "status": "html-ready",
+      "warnings": []
+    }
+  ]
+}
